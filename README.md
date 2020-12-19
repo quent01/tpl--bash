@@ -12,3 +12,6 @@
     – leave the --help and --no-color
     - but replace the example ones: -f and -p
 ```
+
+## Ressources
+- https://betterdev.blog/minimal-safe-bash-script-template/
